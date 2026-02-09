@@ -1,15 +1,117 @@
+<h1 align="center">Hi 👋, I'm Pushkar Pandey</h1>
+<h3 align="center">Full-Stack Web Developer | ASP.NET Core | MERN | Intern @ GAIL (India) Ltd.</h3>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pa.ndey543) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/pushkar-pandey-904a09200) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Pushkar Pandey) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:piyushpandey0651@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=pushkarpandey123&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=pushkarpandey123&theme=blueberry&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pushkarpandey123&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <a href="https://pushkarpandey123.github.io/pushkar-pandey-portfolio/" target="_blank">Portfolio</a> •
+  <a href="https://linkedin.com/in/pushkar904/" target="_blank">LinkedIn</a> •
+  <a href="mailto:piyushpandey0651@gmail.com">Email</a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=pushkarpandey123&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
+I’m a **B.Tech Computer Science student** and **Full-Stack Web Developer** with **1+ year of hands-on experience** building scalable, real-world applications.
+
+During my internship at **GAIL (India) Limited**, I designed and deployed a **DAK Monitoring System** that reduced document tracking time by **35–40%** and improved inter-department workflow efficiency.
+
+I enjoy working across the **entire development lifecycle**—from designing clean UIs to implementing secure backend logic—and I’m currently exploring **AI integration in web platforms**.
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+- C, C++, C#
+- JavaScript, Python, Java
+
+**Frameworks & Libraries**
+- ASP.NET Core MVC
+- Entity Framework Core
+- React.js
+- Node.js, Express.js
+- Bootstrap, Tailwind CSS
+
+**Databases**
+- MySQL
+- MongoDB
+- MS Access
+
+**Tools & Platforms**
+- Visual Studio 2022, VS Code
+- Git & GitHub
+- Microsoft Azure
+- Azure DevOps
+
+---
+
+## 💼 Internship Experience
+
+### 🏢 GAIL (India) Limited — *Web Developer Intern*  
+📍 Ranchi | 🗓️ Mar 2024 – Jun 2024
+
+- Built a **DAK Monitoring System** using **ASP.NET MVC, C#, Entity Framework**, and **MySQL**
+- Reduced document tracking time by **35%**
+- Implemented **role-based authentication & authorization**
+- Developed **dynamic reports** with **PDF & Excel export**
+- Integrated **AI features**:
+  - Subject line generation
+  - Record summarization
+  - Semantic search
+- Worked in **Agile environment** with Git & Azure DevOps
+- Delivered complete technical documentation and user training
+
+---
+
+## 🚀 Projects
+
+### 🛒 Swift Cart — Full-Stack E-Commerce Web App (MERN)
+- Product listing, search, cart & order placement
+- User & admin authentication
+- Inventory management (CRUD)
+- Responsive UI using **React + Tailwind**
+- REST APIs with **Node.js, Express & MongoDB**
+- Payment flow simulation (Razorpay)
+
+---
+
+### 🍽️ Smart Meal Planner — MERN Stack
+- Personalized meal plans based on dietary preferences
+- Secure user authentication & session management
+- Real-time updates with dynamic forms
+- Optimized MongoDB schemas for performance
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pushkarpandey123&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pushkarpandey123&layout=compact&theme=tokyonight" height="165"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=pushkarpandey123&theme=tokyonight"/>
+</p>
+
+---
+
+## 🏆 Achievements & Highlights
+- ✅ Internship at **GAIL (India) Ltd.**
+- ✅ Built production-level government-use system
+- ✅ Experience with **AI-assisted web features**
+- ✅ Strong backend + frontend foundation
+
+---
+
+## 📫 Let’s Connect
+- 🌐 Portfolio: https://pushkarpandey123.github.io/pushkar-pandey-portfolio/
+- 💼 LinkedIn: https://linkedin.com/in/pushkar904/
+- 📧 Email: piyushpandey0651@gmail.com
+
+---
+
+⭐ *Open to internships and full-time opportunities in Web / Full-Stack Development*
