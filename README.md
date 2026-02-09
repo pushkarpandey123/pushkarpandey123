@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=180&section=header&text=Pushkar%20Pandey&fontSize=38&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=180&section=header&text=Pushkar%20Pandey&fontSize=43&fontColor=ffffff" />
 </p>
 
 <h3 align="center">
@@ -17,7 +17,7 @@ Full-Stack Web Developer | MERN Stack Developer| ASP.NET Core Developer | Intern
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,js,react,nodejs,express,mongodb,mysql,html,css,bootstrap,tailwind,git,github,azure&perline=8&size=70" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,js,react,nodejs,express,mongodb,mysql,html,css,bootstrap,tailwind,git,github,azure&perline=8&size=90" />
 </p>
 
 ---
