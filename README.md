@@ -64,12 +64,12 @@ Full-Stack Web Developer | ASP.NET Core | MERN | Intern @ GAIL (India) Ltd.
 - Real-time dynamic forms
 
 ---
+## 📊 GitHub Activity
 
-## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pushkarpandey123&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pushkarpandey123&layout=compact&theme=github_dark&hide_border=true" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pushkarpandey123&theme=github_dark" />
 </p>
+
 
 ---
 
