@@ -17,10 +17,11 @@ Full-Stack Web Developer | MERN Stack Developer| ASP.NET Core Developer | Intern
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,js,react,nodejs,express,mongodb,mysql,html,css,bootstrap,tailwind,git,github,azure" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,js,react,nodejs,express,mongodb,mysql,html,css,bootstrap,tailwind,git,github,azure&perline=8&size=70" />
 </p>
 
 ---
+
 
 ## 💼 Internship Experience
 
