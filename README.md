@@ -3,7 +3,7 @@
 </p>
 
 <h3 align="center">
-Full-Stack Web Developer | ASP.NET Core | MERN | Intern @ GAIL (India) Ltd.
+Full-Stack Web Developer | MERN Stack Developer| ASP.NET Core Developer | Intern @ GAIL (India) Ltd.
 </h3>
 
 <p align="center">
@@ -11,15 +11,6 @@ Full-Stack Web Developer | ASP.NET Core | MERN | Intern @ GAIL (India) Ltd.
   <a href="https://linkedin.com/in/pushkar904/">💼 LinkedIn</a> |
   <a href="mailto:piyushpandey0651@gmail.com">📧 Email</a>
 </p>
-
----
-
-## 👨‍💻 About Me
-🎓 B.Tech CSE student & **Full-Stack Web Developer**  
-🏢 Former **Web Developer Intern at GAIL (India) Limited**  
-⚙️ Built a **DAK Monitoring System** reducing document tracking time by **35–40%**  
-🤖 Interested in **AI-powered web applications**  
-🚀 Passionate about clean code, scalable systems, and real-world impact
 
 ---
 
